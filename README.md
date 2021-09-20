@@ -1,1 +1,1 @@
-# doreamon-Stone-paper-scissor-my-own-game
+# Stone-Paper-Scissor
